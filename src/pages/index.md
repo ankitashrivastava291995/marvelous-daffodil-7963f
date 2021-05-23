@@ -45,6 +45,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    subtitle: Solutions We Provide
   - section_id: reviews
     type: section_reviews
     background: white
