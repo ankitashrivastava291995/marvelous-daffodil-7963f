@@ -50,7 +50,7 @@ sections:
     title: About Us
     background: white
     features:
-      - title: lorem-ipsum
+      - title: Explore our Wide Range of Services
         content: |
 
 
