@@ -86,7 +86,7 @@ sections:
         content: >-
           The approach towards working on engagements is very structured,
           professional, and results-driven.
-      - author: Jonquil Von Haggerston
+      - author: Mr.P.Anbumani
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
