@@ -80,7 +80,7 @@ sections:
         content: >-
           We transferred our IT development and support to ERA INTERFACES in
           2019. In the process, we have significantly reduced our IT spend.
-      - author: Parsley Montana
+      - author: Siva Prasad
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
