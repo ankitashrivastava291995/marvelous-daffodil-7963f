@@ -23,10 +23,22 @@ sections:
       - title: Explore our Wide Range of Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          *   Open Source
+
+          *   ITLF
+
+          *   Digital Marketing
+
+          *   DigiPedagogy
+
+          *   Chatbot Solution
+
+          *   Application Development
+
+          *   Web Development
+
+          *   Smart Campus
         actions:
           - label: Learn More
             url: /features
