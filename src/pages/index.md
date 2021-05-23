@@ -94,7 +94,7 @@ sections:
           suggesting their ideas to us.
   - section_id: lorem-ipsum
     title: Latest Blogs
-    background: gray
+    background: white
     type: section_posts
     subtitle: 'Our Team Moves Faster, Keeping you Current on What''s Hot'
 seo:
