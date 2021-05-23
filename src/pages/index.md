@@ -96,7 +96,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions:
-      - label: C
+      - label: CA
         url: '#'
         style: primary
         has_icon: false
