@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/interesting-turtle.png
     image_alt: App preview
     title: Reliable & Cost Efficient Solutioning Company
     content: >
