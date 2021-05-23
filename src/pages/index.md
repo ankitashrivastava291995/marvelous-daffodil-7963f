@@ -48,7 +48,6 @@ sections:
     subtitle: Solutions We Provide
   - section_id: lorem-ipsum
     title: About Us
-    subtitle: lorem-ipsum
     background: white
     features:
       - title: lorem-ipsum
