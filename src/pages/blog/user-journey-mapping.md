@@ -1,6 +1,5 @@
 ---
 title: A Guide To User Journey Mapping
-subtitle: LEARNING MANAGEMENT SYSTEM
 excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
