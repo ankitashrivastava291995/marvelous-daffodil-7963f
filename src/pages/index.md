@@ -20,7 +20,7 @@ sections:
     title: Services We Offer
     subtitle: SOLUTIONS WE PROVIDE
     features:
-      - title: The Best Feature of Your Services
+      - title: Explore our Wide Range of Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
