@@ -5,9 +5,7 @@ author: src/data/authors/jane-doe.yaml
 excerpt: >-
   Top Trending technology in 2021   Trend 1: Internet of Behaviors As
   demonstrated by the COVID-19 protocol monitoring example, the IoB is about
-  using data to change behaviors. With an increase in technologies that gather
-  the “digital dust” of daily life — data that spans the digital and physical
-  worlds — that information can be […]
+  using data to change behaviors. […]
 date: '2021-01-03'
 thumb_image_alt: A group of people working in a cafe
 image: images/terrific-steel.jpg
