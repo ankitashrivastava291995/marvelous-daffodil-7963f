@@ -98,8 +98,7 @@ sections:
       We help our customers enhance the Efficiency & Effectiveness of their
       Talent Supply Chain.
     actions:
-      - label: CA
-        url: '#'
+      - url: '#'
         style: primary
         has_icon: false
         icon: arrow-left
