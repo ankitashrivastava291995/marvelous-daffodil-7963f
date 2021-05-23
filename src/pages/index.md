@@ -47,7 +47,7 @@ sections:
             icon_position: right
     subtitle: Solutions We Provide
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: About Us
     subtitle: lorem-ipsum
     background: white
     features:
