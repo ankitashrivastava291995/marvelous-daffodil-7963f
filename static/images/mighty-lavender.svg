@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="173" viewBox="0 0 180 173">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="180" height="173"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <g id="era_icon" transform="translate(36.971 0)">
+      <path id="Polygon_1" data-name="Polygon 1" d="M52.109,117.385,0,88.039V29.346L52.109,0l52.109,29.346V88.039Z" transform="translate(0)" fill="none" stroke="#040506" stroke-width="2"/>
+      <g id="era" transform="translate(5.47 7.704)">
+        <path id="Path_40" data-name="Path 40" d="M259.926,263.073,264.856,260l.54,19.486-4.966,2.422Z" transform="translate(-203.581 -185.12)" fill="#a7182a"/>
+        <path id="Path_41" data-name="Path 41" d="M197.832,279.836l-17.023-22.678,15.929,27.054,1.094,1.094" transform="translate(-152.428 -183.283)" fill="#356bb2"/>
+        <g id="Group_2210" data-name="Group 2210">
+          <path id="Path_42" data-name="Path 42" d="M330.231,216.329l.861,20.174,4.376-2.735-1.094-20.788Z" transform="translate(-249.036 -154.72)" fill="#a7182a"/>
+          <path id="Path_43" data-name="Path 43" d="M204.982,117.409l26.744-15.864,3.343,1.641L208.325,119.05Z" transform="translate(-168.057 -82.672)" fill="#f3812d"/>
+          <path id="Path_44" data-name="Path 44" d="M159.325,83.139l34.737-21.061,2.188,1.094L161.24,84.507Z" transform="translate(-138.537 -57.155)" fill="#f3812d"/>
+          <path id="Path_45" data-name="Path 45" d="M109.024,73.86l43.763-25.711,8.753,4.923L127.077,73.86l8.206,4.923,27.352-15.864,7.659,4.376L144.035,83.16l9.3,5.47,35.558-20.788,8.753,4.923L152.787,99.024Z" transform="translate(-106.016 -48.149)" fill="#fbaa2e"/>
+          <path id="Path_46" data-name="Path 46" d="M100.512,124.761V172.9l8.753,4.923V158.677l27.352,35.011,8.206,4.923-15.6-26.5-1.631-2.77,18.052,10.394V151.292Z" transform="translate(-100.512 -97.682)" fill="#188bce"/>
+          <path id="Path_47" data-name="Path 47" d="M126.049,167.322v8.753L153.4,191.939v-9.3Z" transform="translate(-117.023 -125.2)" fill="#2c2f3b"/>
+          <path id="Path_48" data-name="Path 48" d="M237.484,150.7v49.234l9.3-5.47V175.315l26.8-16.958.547,19.693,8.753-4.923V125.534Z" transform="translate(-189.071 -98.182)" fill="#de2130"/>
+          <path id="Path_49" data-name="Path 49" d="M263.795,186.235v8.753l27.078-15.317v-8.479Z" transform="translate(-206.082 -127.702)" fill="#2c2f3b"/>
+          <path id="Path_50" data-name="Path 50" d="M125.275,239.865v0Z" transform="translate(-116.522 -159.723)" fill="#f3812d"/>
+          <path id="Path_51" data-name="Path 51" d="M129.1,242.6V225.62l-3.829-4.9v19.146Z" transform="translate(-116.523 -159.723)" fill="#356bb2"/>
+          <path id="Path_52" data-name="Path 52" d="M269.212,220.718" transform="translate(-209.585 -159.723)" fill="#de2130"/>
+          <path id="Path_53" data-name="Path 53" d="M125.275,166.549v9.184l3.829,2.451v-9.259A42.31,42.31,0,0,0,125.275,166.549Z" transform="translate(-116.522 -124.7)" fill="#356bb2"/>
+          <path id="Path_54" data-name="Path 54" d="M267.192,215.864l.206-9.075-4.376,2.188v9.3Z" transform="translate(-205.582 -150.717)" fill="#a7182a"/>
+          <path id="Path_55" data-name="Path 55" d="M330.383,181.675l.284-8.673,3.259-1.811v8.753Z" transform="translate(-249.134 -127.702)" fill="#a7182a"/>
+        </g>
+      </g>
+    </g>
+    <g id="erainterfaces" transform="translate(9.909 123.129)">
+      <text id="ERA_interfaces" data-name="ERA interfaces" transform="translate(0 28.637)" fill="#fbaa2e" font-size="32" font-family="DINCondensed-Bold, DIN Condensed" font-weight="700" letter-spacing="0.005em"><tspan x="0" y="0">E</tspan><tspan y="0" fill="#de2130">R</tspan><tspan y="0" fill="#188bce">A</tspan><tspan y="0" fill="#040506"> </tspan><tspan y="0" fill="#fff">interfaces</tspan></text>
+      <rect id="doted_rectangle" width="109.682" height="32.275" transform="translate(42.575)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="3"/>
+      <g id="cursor" transform="translate(147.686 27.49)">
+        <g id="Group_2211" data-name="Group 2211">
+          <path id="Path_56" data-name="Path 56" d="M476.169,469.853l-2.013-1.968.965-.988a.345.345,0,0,0-.141-.57l-5.88-1.886a.345.345,0,0,0-.432.441l2.019,5.835a.345.345,0,0,0,.573.129l.965-.988,2.013,1.968a.345.345,0,0,0,.488-.005l1.448-1.481A.345.345,0,0,0,476.169,469.853Zm-1.694,1.24-2.013-1.968a.345.345,0,0,0-.488.006l-.816.835-1.61-4.655,4.69,1.5-.816.835a.345.345,0,0,0,.006.488l2.013,1.968Z" transform="translate(-464.429 -460.206)" fill="#fff"/>
+          <path id="Path_57" data-name="Path 57" d="M468.668,455.251a.345.345,0,0,0,.341-.349l-.024-2.071a.345.345,0,0,0-.69.008l.024,2.071A.345.345,0,0,0,468.668,455.251Z" transform="translate(-464.2 -452.49)" fill="#fff"/>
+          <path id="Path_58" data-name="Path 58" d="M460.634,456.114a.345.345,0,0,0-.482.494l1.481,1.448a.345.345,0,0,0,.482-.494Z" transform="translate(-458.868 -454.77)" fill="#fff"/>
+          <path id="Path_59" data-name="Path 59" d="M461.782,468.5l-1.448,1.481a.345.345,0,1,0,.493.482l1.448-1.481a.345.345,0,1,0-.493-.482Z" transform="translate(-458.989 -462.775)" fill="#fff"/>
+          <path id="Path_60" data-name="Path 60" d="M473.116,457.9l1.448-1.481a.345.345,0,0,0-.494-.483l-1.448,1.481a.345.345,0,0,0,.494.483Z" transform="translate(-466.934 -454.649)" fill="#fff"/>
+          <path id="Path_61" data-name="Path 61" d="M459.471,464.615a.346.346,0,0,0-.349-.341l-2.071.024a.345.345,0,0,0,.008.69l2.071-.024A.345.345,0,0,0,459.471,464.615Z" transform="translate(-456.71 -460.109)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
