@@ -95,7 +95,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: lorem-ipsum
     title: Latest Blogs
-    subtitle: lorem-ipsum
+    subtitle: 'Our Team Moves Faster, Keeping you Current on What''s Hot'
     background: gray
     type: section_posts
 seo:
