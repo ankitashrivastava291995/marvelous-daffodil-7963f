@@ -12,22 +12,22 @@
                 "style": "link"
             },
             {
-                "label": "Features",
+                "label": "Services",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "Blogs",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Industries",
                 "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Contact us",
                 "url": "/signup",
                 "style": "primary"
             }
