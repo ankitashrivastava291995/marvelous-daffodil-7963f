@@ -84,7 +84,6 @@
                 "title": "Community",
                 "nav_links": [
                     {
-                        "url": "https://twitter.com/",
                         "style": "link",
                         "has_icon": true,
                         "icon": "instagram",
