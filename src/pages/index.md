@@ -18,7 +18,6 @@ sections:
     type: section_features
     background: gray
     title: Services We Offer
-    subtitle: SOLUTIONS WE PROVIDE
     features:
       - title: Explore our Wide Range of Services
         image: images/feature1.png
