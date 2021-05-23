@@ -3,9 +3,7 @@ title: LEARNING MANAGEMENT SYSTEM
 excerpt: >-
   What is a Learning Management System? How is it useful? A learning management
   system, (LMS) is software that is designed specifically to create, distribute,
-  and manage the delivery of educational content. The LMS can be hosted as a
-  stand-alone product on the company server, or it can be a cloud-based platform
-  that is hosted by […]
+  and manage the delivery of educational content. […]
 author: src/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/10_thumb.jpg
