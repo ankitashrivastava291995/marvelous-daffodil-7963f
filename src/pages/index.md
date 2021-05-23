@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Reliable & Cost Efficient Solutioning Company
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Reliable & Cost Efficient Solutioning Company
     actions:
       - label: Learn More
         url: /features
