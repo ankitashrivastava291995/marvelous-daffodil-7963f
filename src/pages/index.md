@@ -53,7 +53,9 @@ sections:
     features:
       - title: lorem-ipsum
         content: |
-          About Company
+
+
+          what we are
 
           Breaking Conventional Approaches and Establishing a New ERA.
 
