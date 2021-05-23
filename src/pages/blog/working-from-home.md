@@ -2,9 +2,8 @@
 title: BEST PRACTICES FOR CODING
 excerpt: >-
   Welcome to the wonderful world of software development. Prepare yourself for
-  an exciting and thrilling journey filled with code, rules, and more code. And
-  did I mention there are rules? If you are someone who is familiar with coding,
-  then the concept of coding standards is nothing new to you. You may be a […]
+  an exciting and thrilling journey filled with code, rules, and more code. You
+  may be a […]
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
