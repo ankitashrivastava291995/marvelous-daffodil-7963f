@@ -90,8 +90,8 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Doing excellence in developing modern technologies. They are good at
+          suggesting their ideas to us.
   - section_id: lorem-ipsum
     title: Latest Blogs
     background: gray
