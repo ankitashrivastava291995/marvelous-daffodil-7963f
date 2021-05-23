@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="268" height="83" viewBox="0 0 268 83">
+  <defs>
+    <clipPath id="clip-Logo">
+      <rect width="300" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" clip-path="url(#clip-Logo)">
+    <g id="erainterfaces" transform="translate(102.307 -159.173)">
+      <text id="ERA_interfaces" data-name="ERA interfaces" transform="translate(-102.307 217.828)" fill="#fbaa2e" font-size="54" font-family="DINCondensed-Bold, DIN Condensed" font-weight="700" letter-spacing="0.005em"><tspan x="0" y="0">E</tspan><tspan y="0" fill="#de2130">R</tspan><tspan y="0" fill="#188bce">A</tspan><tspan y="0" fill="#040506"> </tspan><tspan y="0" fill="#626162">interfaces</tspan></text>
+      <rect id="doted_rectangle" width="184.258" height="54.221" transform="translate(-30.784 170.547)" fill="none" stroke="#626162" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="3"/>
+      <g id="cursor" transform="translate(145.797 216.728)">
+        <g id="Group_2209" data-name="Group 2209">
+          <path id="Path_33" data-name="Path 33" d="M571.339,317.641l-3.382-3.306,1.621-1.658a.58.58,0,0,0-.237-.957l-9.877-3.169a.58.58,0,0,0-.725.742l3.392,9.8a.58.58,0,0,0,.962.216l1.621-1.659,3.382,3.306a.58.58,0,0,0,.82-.009l2.432-2.488A.58.58,0,0,0,571.339,317.641Zm-2.847,2.083-3.382-3.306a.58.58,0,0,0-.82.009l-1.371,1.4-2.706-7.82,7.88,2.528-1.371,1.4a.58.58,0,0,0,.009.82l3.382,3.306Z" transform="translate(-551.617 -301.436)" fill="#626162"/>
+          <path id="Path_34" data-name="Path 34" d="M558.789,294.805a.58.58,0,0,0,.573-.586l-.039-3.479a.58.58,0,0,0-1.16.013l.039,3.479A.58.58,0,0,0,558.789,294.805Z" transform="translate(-551.284 -290.167)" fill="#626162"/>
+          <path id="Path_35" data-name="Path 35" d="M546.463,295.754a.58.58,0,1,0-.811.829l2.488,2.432a.58.58,0,1,0,.811-.829Z" transform="translate(-543.496 -293.496)" fill="#626162"/>
+          <path id="Path_36" data-name="Path 36" d="M548.363,314.809l-2.432,2.488a.58.58,0,1,0,.829.811l2.432-2.488a.58.58,0,0,0-.829-.811Z" transform="translate(-543.673 -305.188)" fill="#626162"/>
+          <path id="Path_37" data-name="Path 37" d="M565.661,298.774l2.432-2.488a.58.58,0,0,0-.829-.811l-2.432,2.488a.58.58,0,0,0,.829.811Z" transform="translate(-555.276 -293.319)" fill="#626162"/>
+          <path id="Path_38" data-name="Path 38" d="M544.982,308.864a.58.58,0,0,0-.586-.573l-3.479.039a.58.58,0,0,0,.013,1.16l3.479-.039A.58.58,0,0,0,544.982,308.864Z" transform="translate(-540.344 -301.294)" fill="#626162"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
