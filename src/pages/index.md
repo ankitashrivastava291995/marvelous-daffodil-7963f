@@ -14,11 +14,6 @@ sections:
       - url: /features
         style: primary
         label: Explore More
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
   - section_id: features
     type: section_features
     background: gray
