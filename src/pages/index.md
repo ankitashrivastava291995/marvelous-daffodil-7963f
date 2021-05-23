@@ -46,27 +46,6 @@ sections:
             icon: arrow-right
             icon_position: right
     subtitle: Solutions We Provide
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    features:
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-    type: section_features
   - section_id: reviews
     type: section_reviews
     background: white
