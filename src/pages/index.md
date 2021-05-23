@@ -97,6 +97,7 @@ sections:
     title: Latest Blogs
     background: gray
     type: section_posts
+    subtitle: 'Our Team Moves Faster, Keeping you Current on What''s Hot'
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
