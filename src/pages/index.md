@@ -106,7 +106,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: C
+        label: Call us Now
     type: section_cta
   - section_id: lorem-ipsum
     title: Latest Blogs
