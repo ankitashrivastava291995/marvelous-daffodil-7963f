@@ -66,7 +66,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/about_us.png
+        image: images/pleasant-wallaby.png
     type: section_features
   - section_id: reviews
     type: section_reviews
