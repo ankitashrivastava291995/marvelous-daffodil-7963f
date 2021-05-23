@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: TOP TRENDING TECHNOLOGY IN 2021
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
