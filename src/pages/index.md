@@ -20,7 +20,7 @@ sections:
     title: Services We Offer
     features:
       - title: Explore our Wide Range of Services
-        image: images/feature1.png
+        image: images/services.png
         image_alt: App preview on a phone and tablet
         content: |
           *   Open Source
