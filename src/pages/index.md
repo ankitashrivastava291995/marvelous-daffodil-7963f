@@ -94,7 +94,7 @@ sections:
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Latest Blogs
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
