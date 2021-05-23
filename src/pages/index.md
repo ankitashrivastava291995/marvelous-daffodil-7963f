@@ -50,7 +50,7 @@ sections:
     title: About Us
     background: white
     features:
-      - title: Explore our Wide Range of Services
+      - title: Explore What we are
         content: |
 
 
