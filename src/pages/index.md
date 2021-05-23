@@ -93,6 +93,11 @@ sections:
           Doing excellence in developing modern technologies. They are good at
           suggesting their ideas to us.
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
+  - section_id: lorem-ipsum
     title: Latest Blogs
     background: white
     type: section_posts
