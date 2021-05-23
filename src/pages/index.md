@@ -54,8 +54,6 @@ sections:
         content: |
 
 
-          what we are
-
           Breaking Conventional Approaches and Establishing a New ERA.
 
           *   Lorem ipsum
