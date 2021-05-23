@@ -13,7 +13,7 @@ sections:
     actions:
       - url: /features
         style: primary
-        label: Explo
+        label: Explore More
   - section_id: features
     type: section_features
     background: gray
