@@ -993,5 +993,5 @@ models:
           - medium
           - large
         label: Section bottom padding
-      - name: ''
+      - name: has_border
         type: string
