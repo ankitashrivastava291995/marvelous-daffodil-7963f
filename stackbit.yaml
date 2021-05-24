@@ -1021,4 +1021,7 @@ models:
         description: The size of the background image
         default: cover
       - name: background_image_repeat
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
