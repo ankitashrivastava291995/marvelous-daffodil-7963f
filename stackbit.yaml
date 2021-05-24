@@ -1007,3 +1007,5 @@ models:
         label: Background color
         description: The background color of the section
         default: none
+      - name: background_image
+        type: string
