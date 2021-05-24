@@ -918,3 +918,6 @@ models:
   clients:
     type: object
     label: clients
+    fields:
+      - name: ''
+        type: string
