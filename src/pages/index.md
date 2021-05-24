@@ -109,11 +109,6 @@ sections:
         label: Call us Now
     type: section_cta
   - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
-  - section_id: lorem-ipsum
     title: Latest Blogs
     background: white
     type: section_posts
