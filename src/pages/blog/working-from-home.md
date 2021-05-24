@@ -1,9 +1,5 @@
 ---
 title: BEST PRACTICES FOR CODING
-excerpt: >-
-  Welcome to the wonderful world of software development. Prepare yourself for
-  an exciting and thrilling journey filled with code, rules, and more code. You
-  may be a […]
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/internship 2.png
