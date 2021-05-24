@@ -1023,10 +1023,8 @@ models:
       - name: background_image_repeat
         type: enum
         options:
-          - label: repeat
-            value: repeat
-          - label: ''
-            value: ''
+          - repeat
+          - no-repeat
         label: Background image repeat
         description: Repeat the image to cover the whole area
         default: no-repeat
