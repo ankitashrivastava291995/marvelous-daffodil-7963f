@@ -1011,5 +1011,5 @@ models:
         type: image
         label: Background image
         description: The image displayed in the background of the section
-      - name: ''
+      - name: background_image_size
         type: string
