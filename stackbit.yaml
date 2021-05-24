@@ -1017,3 +1017,4 @@ models:
           - label: ''
             value: ''
         label: Background image size
+        description: The size of the background image
