@@ -937,5 +937,5 @@ models:
         type: list
         items:
           type: string
-      - name: ''
+      - name: grid_cols
         type: string
