@@ -994,4 +994,4 @@ models:
           - large
         label: Section bottom padding
       - name: has_border
-        type: string
+        type: boolean
