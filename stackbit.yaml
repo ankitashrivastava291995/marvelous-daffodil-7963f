@@ -537,6 +537,7 @@ models:
             - action
       - name: ''
         type: string
+        label: ''
   section_hero:
     type: object
     label: Hero Section
@@ -914,7 +915,7 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  gridsection:
+  grid_section:
     type: object
     label: gridsection
     fields:
