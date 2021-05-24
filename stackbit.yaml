@@ -938,4 +938,7 @@ models:
         items:
           type: string
       - name: grid_cols
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
