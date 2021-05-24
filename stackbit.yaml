@@ -915,7 +915,7 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  grid_section:
+  gridsection:
     type: object
     label: gridsection
     fields:
