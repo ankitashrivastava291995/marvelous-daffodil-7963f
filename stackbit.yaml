@@ -1001,8 +1001,7 @@ models:
       - name: background_color
         type: enum
         options:
-          - label: ''
-            value: ''
+          - none
         label: Background color
         description: The background color of the section
         default: none
