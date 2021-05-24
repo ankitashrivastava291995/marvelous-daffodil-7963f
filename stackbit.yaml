@@ -997,3 +997,4 @@ models:
         type: boolean
         label: Section border
         description: Add section bottom border
+        default: false
