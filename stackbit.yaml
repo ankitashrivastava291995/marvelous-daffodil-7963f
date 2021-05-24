@@ -979,13 +979,9 @@ models:
       - name: padding_top
         type: enum
         options:
-          - label: 'none '
-            value: 'none '
-          - label: small
-            value: small
-          - label: medium
-            value: medium
-          - label: ''
-            value: ''
+          - 'none '
+          - small
+          - medium
+          - large
         label: Section top padding
         description: The padding area (space) on the top of the section
