@@ -916,5 +916,5 @@ models:
     type: object
     label: gridsection
     fields:
-      - name: ''
+      - name: IMAGE
         type: string
