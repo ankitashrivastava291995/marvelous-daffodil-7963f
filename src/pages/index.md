@@ -83,6 +83,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/vsbec.png
   - section_id: reviews
     type: section_reviews
     background: gray
