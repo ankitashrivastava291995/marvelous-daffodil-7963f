@@ -915,10 +915,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  gridsection:
-    type: object
-    label: gridsection
-    fields:
-      - name: IMAGE
-        type: string
-        label: IMAGE
