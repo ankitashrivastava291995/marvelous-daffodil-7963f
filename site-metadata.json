@@ -7,7 +7,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "About US",
+                "label": "About Us",
                 "url": "/",
                 "style": "link"
             },
