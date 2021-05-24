@@ -1020,3 +1020,5 @@ models:
         label: Background image size
         description: The size of the background image
         default: cover
+      - name: ''
+        type: string
