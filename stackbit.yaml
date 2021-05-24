@@ -1003,6 +1003,7 @@ models:
         options:
           - none
           - primary
+          - secondary
         label: Background color
         description: The background color of the section
         default: none
