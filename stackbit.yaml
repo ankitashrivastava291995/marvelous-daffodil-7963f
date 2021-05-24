@@ -977,4 +977,7 @@ models:
           action buttons)
         default: center
       - name: padding_top
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
