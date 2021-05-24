@@ -1025,3 +1025,4 @@ models:
         options:
           - label: ''
             value: ''
+        label: Background image repeat
