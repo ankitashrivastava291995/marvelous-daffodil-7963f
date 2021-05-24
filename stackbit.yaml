@@ -1012,4 +1012,7 @@ models:
         label: Background image
         description: The image displayed in the background of the section
       - name: background_image_size
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
