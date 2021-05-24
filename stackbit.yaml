@@ -949,3 +949,5 @@ models:
           - eight
         label: Grid columns
         description: Show the specified number of items in a grid row
+      - name: ''
+        type: string
