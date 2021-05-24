@@ -986,4 +986,7 @@ models:
         label: Section top padding
         description: The padding area (space) on the top of the section
       - name: padding_bottom
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
