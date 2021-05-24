@@ -933,5 +933,5 @@ models:
           type: string
         label: Action buttons
         description: Action buttons displayed below section items
-      - name: ''
+      - name: grid_items
         type: string
