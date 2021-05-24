@@ -999,4 +999,7 @@ models:
         description: Add section bottom border
         default: false
       - name: background_color
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
