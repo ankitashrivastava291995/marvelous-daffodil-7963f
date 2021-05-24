@@ -961,3 +961,6 @@ models:
       - name: enable_cards
         type: boolean
         label: Enable cards
+        description: >-
+          Display items as cards, i.e. add border, background and some padding
+          around the item content
