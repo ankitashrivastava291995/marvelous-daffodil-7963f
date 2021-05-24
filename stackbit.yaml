@@ -535,6 +535,8 @@ models:
           type: model
           models:
             - action
+      - name: ''
+        type: string
   section_hero:
     type: object
     label: Hero Section
@@ -918,3 +920,4 @@ models:
     fields:
       - name: IMAGE
         type: string
+        label: IMAGE
