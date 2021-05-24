@@ -933,3 +933,5 @@ models:
           type: string
         label: Action buttons
         description: Action buttons displayed below section items
+      - name: ''
+        type: string
