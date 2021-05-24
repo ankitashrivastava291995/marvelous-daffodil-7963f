@@ -993,3 +993,5 @@ models:
           - medium
           - large
         label: Section bottom padding
+      - name: ''
+        type: string
