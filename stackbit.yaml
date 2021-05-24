@@ -1009,3 +1009,4 @@ models:
         default: none
       - name: background_image
         type: image
+        label: Background image
