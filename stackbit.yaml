@@ -931,3 +931,4 @@ models:
         type: list
         items:
           type: string
+        label: Action buttons
