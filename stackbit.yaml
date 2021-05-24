@@ -950,4 +950,7 @@ models:
         label: Grid columns
         description: Show the specified number of items in a grid row
       - name: grid_gap_vert
-        type: string
+        type: enum
+        options:
+          - label: ''
+            value: ''
