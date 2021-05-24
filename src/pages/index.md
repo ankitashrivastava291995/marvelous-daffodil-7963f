@@ -61,7 +61,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/pleasant-wallaby.png
+        image: images/nervous-octopus.png
     type: section_features
     subtitle: >-
       We are on a mission to empower each organization and individuals to self
