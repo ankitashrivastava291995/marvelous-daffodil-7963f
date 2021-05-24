@@ -974,3 +974,4 @@ models:
         description: >-
           The horizontal alignment of the section content (title, subtitle,
           action buttons)
+        default: center
