@@ -959,4 +959,4 @@ models:
         description: The vertical spacing between grid items
         default: small
       - name: enable_cards
-        type: string
+        type: boolean
