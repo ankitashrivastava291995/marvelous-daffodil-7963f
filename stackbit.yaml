@@ -960,3 +960,4 @@ models:
         default: small
       - name: enable_cards
         type: boolean
+        label: Enable cards
