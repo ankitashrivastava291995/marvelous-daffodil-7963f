@@ -998,5 +998,5 @@ models:
         label: Section border
         description: Add section bottom border
         default: false
-      - name: ''
+      - name: background_color
         type: string
