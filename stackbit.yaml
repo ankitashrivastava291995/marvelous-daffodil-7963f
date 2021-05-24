@@ -968,7 +968,10 @@ models:
       - name: align
         type: enum
         options:
-          - left
+          - label: left
+            value: left
+          - label: ''
+            value: ''
         label: Section alignment
         description: >-
           The horizontal alignment of the section content (title, subtitle,
