@@ -949,5 +949,5 @@ models:
           - eight
         label: Grid columns
         description: Show the specified number of items in a grid row
-      - name: ''
+      - name: grid_gap_vert
         type: string
