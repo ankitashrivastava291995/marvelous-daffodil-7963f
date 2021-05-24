@@ -965,3 +965,5 @@ models:
           Display items as cards, i.e. add border, background and some padding
           around the item content
         default: false
+      - name: ''
+        type: string
