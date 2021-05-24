@@ -988,5 +988,8 @@ models:
       - name: padding_bottom
         type: enum
         options:
+          - label: none
+            value: none
           - label: ''
             value: ''
+        label: Section bottom padding
