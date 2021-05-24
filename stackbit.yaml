@@ -952,8 +952,7 @@ models:
       - name: grid_gap_vert
         type: enum
         options:
-          - label: ''
-            value: ''
+          - small
         label: Grid gap vertical
         description: The vertical spacing between grid items
         default: small
