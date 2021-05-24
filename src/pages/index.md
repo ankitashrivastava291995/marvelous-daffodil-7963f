@@ -66,6 +66,23 @@ sections:
     subtitle: >-
       We are on a mission to empower each organization and individuals to self
       sustain through our range of services and product offerings
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
   - section_id: reviews
     type: section_reviews
     background: gray
