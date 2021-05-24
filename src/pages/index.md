@@ -66,6 +66,12 @@ sections:
     subtitle: >-
       We are on a mission to empower each organization and individuals to self
       sustain through our range of services and product offerings
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    reviews: []
+    type: section_reviews
   - section_id: reviews
     type: section_reviews
     background: gray
