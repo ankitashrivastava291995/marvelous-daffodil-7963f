@@ -915,3 +915,6 @@ models:
   gridsection:
     type: object
     label: gridsection
+    fields:
+      - name: ''
+        type: string
