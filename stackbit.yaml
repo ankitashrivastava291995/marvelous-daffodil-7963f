@@ -1014,8 +1014,12 @@ models:
       - name: background_image_size
         type: enum
         options:
-          - auto
-          - contain
+          - label: auto
+            value: auto
+          - label: contain
+            value: contain
+          - label: ''
+            value: ''
         label: Background image size
         description: The size of the background image
         default: cover
