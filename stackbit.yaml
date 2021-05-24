@@ -940,9 +940,7 @@ models:
       - name: grid_cols
         type: enum
         options:
-          - label: one
-            value: one
-          - label: ''
-            value: ''
+          - one
+          - two
         label: Grid columns
         description: Show the specified number of items in a grid row
