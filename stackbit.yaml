@@ -995,3 +995,4 @@ models:
         label: Section bottom padding
       - name: has_border
         type: boolean
+        label: Section border
