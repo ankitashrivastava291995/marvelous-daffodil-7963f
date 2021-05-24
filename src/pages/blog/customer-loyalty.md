@@ -1,5 +1,4 @@
 ---
-subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   Top Trending technology in 2021   Trend 1: Internet of Behaviors As
