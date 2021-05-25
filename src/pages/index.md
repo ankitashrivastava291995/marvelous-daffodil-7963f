@@ -92,6 +92,12 @@ sections:
         content: >-
           Doing excellence in developing modern technologies. They are good at
           suggesting their ideas to us.
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        type: review_item
   - section_id: lorem-ipsum
     title: Next ERA Of Your Business
     subtitle: >-
