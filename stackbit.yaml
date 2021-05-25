@@ -262,6 +262,7 @@ models:
         type: list
         items:
           type: string
+        label: Images List
   blog:
     type: page
     urlPath: /blog
