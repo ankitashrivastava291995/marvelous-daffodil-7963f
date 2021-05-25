@@ -262,7 +262,7 @@ models:
         type: list
         label: Clients 1
         items:
-          type: string
+          type: image
   blog:
     type: page
     urlPath: /blog
