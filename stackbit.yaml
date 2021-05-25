@@ -258,11 +258,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: clients_1
-        type: list
-        label: Clients 1
-        items:
-          type: image
   blog:
     type: page
     urlPath: /blog
