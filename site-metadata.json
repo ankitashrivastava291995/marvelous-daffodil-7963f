@@ -22,11 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Industries",
-                "url": "/industries",
-                "style": "link"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
