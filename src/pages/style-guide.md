@@ -1,5 +1,4 @@
 ---
-title: Style Guide
 seo:
   title: Style Guide
   description: This is the style guide page
