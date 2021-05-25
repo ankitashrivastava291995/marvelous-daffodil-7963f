@@ -7,7 +7,6 @@ sections:
     title: INDUSTRIES WE SERVE
     actions: []
   - section_id: lorem-ipsum
-    title: About Us
     background: white
     features:
       - title: Explore What we are
