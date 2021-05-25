@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: Reliable & Cost Efficient Solutioning Company
+    title: INDUSTRIES WE SERVE
     actions: []
   - section_id: features
     type: section_features
