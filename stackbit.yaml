@@ -258,6 +258,10 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+      - name: images_list
+        type: list
+        items:
+          type: string
   blog:
     type: page
     urlPath: /blog
