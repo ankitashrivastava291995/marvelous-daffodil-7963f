@@ -937,6 +937,7 @@ models:
         type: list
         items:
           type: string
+        label: Grid Items
       - name: grid_cols
         type: enum
         options:
