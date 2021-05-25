@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/healthcare.png
     image_alt: App preview
     title: Reliable & Cost Efficient Solutioning Company
     actions: []
