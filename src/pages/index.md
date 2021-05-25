@@ -18,13 +18,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
-    reviews:
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        type: review_item
+    reviews: []
     type: section_reviews
   - section_id: features
     type: section_features
