@@ -22,9 +22,6 @@ sections:
         type: feature_item
         image: images/nervous-octopus.png
     type: section_features
-    subtitle: >-
-      We are on a mission to empower each organization and individuals to self
-      sustain through our range of services and product offerings
   - section_id: reviews
     type: section_reviews
     background: gray
