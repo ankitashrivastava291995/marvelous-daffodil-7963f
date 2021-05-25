@@ -6,38 +6,6 @@ sections:
     image_alt: App preview
     title: INDUSTRIES WE SERVE
     actions: []
-  - section_id: features
-    type: section_features
-    background: gray
-    title: Services We Offer
-    features:
-      - title: Explore our Wide Range of Services
-        image: images/services.png
-        image_alt: App preview on a phone and tablet
-        content: |
-          *   Open Source
-
-          *   ITLF
-
-          *   Digital Marketing
-
-          *   DigiPedagogy
-
-          *   Chatbot Solution
-
-          *   Application Development
-
-          *   Web Development
-
-          *   Smart Campus
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-    subtitle: Solutions We Provide
   - section_id: lorem-ipsum
     title: About Us
     background: white
