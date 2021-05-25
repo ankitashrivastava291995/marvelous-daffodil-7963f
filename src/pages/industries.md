@@ -6,10 +6,7 @@ sections:
     image: images/maroon-turtle.png
     image_alt: App preview
     title: Reliable & Cost Efficient Solutioning Company
-    actions:
-      - url: /features
-        style: primary
-        label: Explore More
+    actions: []
   - section_id: features
     type: section_features
     background: gray
