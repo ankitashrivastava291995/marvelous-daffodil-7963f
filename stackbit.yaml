@@ -513,7 +513,7 @@ models:
           models:
             - feature_item
       - name: images
-        type: string
+        type: image
     labelField: title
   feature_item:
     type: object
