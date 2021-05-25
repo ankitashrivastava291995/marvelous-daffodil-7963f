@@ -23,7 +23,6 @@
             },
             {
                 "label": "Industries we serve",
-                "url": "/industries_we_serve",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
