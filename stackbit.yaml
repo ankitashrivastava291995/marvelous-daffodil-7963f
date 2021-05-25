@@ -514,6 +514,7 @@ models:
             - feature_item
       - name: images
         type: image
+        const: eight
     labelField: title
   feature_item:
     type: object
