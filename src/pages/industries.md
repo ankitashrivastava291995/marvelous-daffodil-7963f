@@ -49,6 +49,12 @@ sections:
           Doing excellence in developing modern technologies. They are good at
           suggesting their ideas to us.
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
+  - section_id: lorem-ipsum
     title: Next ERA Of Your Business
     subtitle: >-
       We help our customers enhance the Efficiency & Effectiveness of their
