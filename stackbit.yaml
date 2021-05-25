@@ -512,6 +512,8 @@ models:
           type: model
           models:
             - feature_item
+      - name: ''
+        type: string
     labelField: title
   feature_item:
     type: object
